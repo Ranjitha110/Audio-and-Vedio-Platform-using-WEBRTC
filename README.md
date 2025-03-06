@@ -6,10 +6,15 @@ This project is a real-time audio and video communication platform built using W
 Features
 
 ✅ Real-time video and audio communication
+
 ✅ Peer-to-peer (P2P) connection using WebRTC
+
 ✅ Signaling server using WebSockets (Socket.IO)
+
 ✅ STUN/TURN server integration for NAT traversal
+
 ✅ Low-latency and high-quality media streaming
+
 ✅ Responsive and user-friendly interface
 
 Tech Stack
