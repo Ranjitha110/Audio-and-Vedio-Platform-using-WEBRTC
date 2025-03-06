@@ -15,8 +15,11 @@ Features
 Tech Stack
 
 Frontend:  HTML, CSS, JavaScript (WebRTC API)
+
 Backend: Node.js, Express.js, Socket.IO
+
 Signaling Protocol: WebSockets
+
 ICE Servers: Google STUN, Coturn (TURN)
 
 How It Works
